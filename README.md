@@ -1,4 +1,4 @@
-# Hi there! Im João Victor, welcome to my GitHub 👋
+# 👋 Hi there! Im João Victor, welcome to my GitHub 
 
 <ul>
   <li>📚 Learning: React and Typescript</li>
@@ -13,7 +13,7 @@
   <img height='180cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOliveiraZz&langs_count=4&&theme=codeSTACKr&hide=php&layout=compact' 
 </div>
 
-## Languages and tools
+## 🔧 Languages and tools
 
 <div style='display: inline-block'> <br>
   <img align='center' alt='Joao-HTML' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -30,7 +30,7 @@
           
 </div>
 
-## Social Medias
+## 🔎 Social Medias 
 
 <div  style='display: inline-block'><br>
   <a  href='mailto:joaolima.gxp@gmail.com'>
