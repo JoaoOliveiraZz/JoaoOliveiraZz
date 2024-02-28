@@ -22,11 +22,11 @@
   <img align='center' alt='Joao-JS' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align='center' alt='Joao-React' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align='center' alt='Joao-SCSS' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align='center' alt='Joao-Tailwind' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align='center' alt='Joao-Tailwind' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img align='center' alt='Joao-Tailwind' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align='center' alt='Joao-Tailwind' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align='center' alt='Joao-Tailwind' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align='center' alt='Joao-Tailwind' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align='center' alt='Joao-Windows' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  <img align='center' alt='Joao-Linux' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align='center' alt='Joao-VSCode' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align='center' alt='Joao-Git' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           
 </div>
 
