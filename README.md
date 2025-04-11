@@ -27,6 +27,10 @@
   <img align='center' alt='Joao-Linux' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align='center' alt='Joao-VSCode' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align='center' alt='Joao-Git' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align='center' alt='Joao-Vue' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img align='center' alt='Joao-Vuetify' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />
+  <img align='center' alt='Joao-Nodejs' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align='center' alt='Joao-MongoDB' height='30' widht='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
           
 </div>
 
